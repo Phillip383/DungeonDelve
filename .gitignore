@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Project Ignores
+addons/
+demo/
+assets/
+script_templates/
+icon*
+LICENSE
